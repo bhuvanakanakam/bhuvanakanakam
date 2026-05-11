@@ -4,7 +4,7 @@
 
 I build things end-to-end — from ML pipelines and NLP models to production-grade backend systems and deployed web apps. I care most about systems that actually work in the real world, in places where the stakes are high.
 
-Currently @ [insightsoftware](https://www.insightsoftware.com/) · Open to new opportunities in **SWE / MLE / APM**
+Open to new opportunities in **SWE / MLE / APM**
 
 ---
 
@@ -29,18 +29,7 @@ Currently @ [insightsoftware](https://www.insightsoftware.com/) · Open to new o
 
 ---
 
-### 🏅 Beyond the Code
+### 📬 Let's Connect
 
-- 🥇 **1st place** — Dell Hack2Hire 2023
-- - 🌍 **Guinness World Record** — Kuchipudi (2019)
-  - - 🥋 **AP State Gold** — Fencing (3× consecutive)
-    - - 🏃 **National Athlete** — Modern Pentathlon
-      - - 💰 Raised **$300K** for Chennai flood relief
-       
-        - ---
-
-        ### 📬 Let's Connect
-
-        [![Portfolio](https://img.shields.io/badge/Portfolio-bhuvanakanakam.vercel.app-black?style=flat&logo=vercel)](https://bhuvanakanakam.vercel.app)
-        [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhuvana--kanakam-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bhuvana-kanakam)
-        [![Instagram](https://img.shields.io/badge/Instagram-b.knkm-purple?style=flat&logo=instagram)](https://www.instagram.com/b.knkm/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhuvanakanakam.vercel.app-black?style=flat&logo=vercel)](https://bhuvanakanakam.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhuvana--kanakam-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bhuvana-kanakam)
