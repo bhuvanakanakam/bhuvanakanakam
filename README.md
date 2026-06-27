@@ -4,7 +4,7 @@
 
 I build things end-to-end — from ML pipelines and NLP models to production-grade backend systems and deployed web apps. I care most about systems that actually work in the real world, in places where the stakes are high.
 
-Open to new opportunities in **SWE / MLE / APM**
+Open to new opportunities in **SWE / MLE**
 
 ---
 
