@@ -1,25 +1,43 @@
-# Hi there, I'm Bhuvana! 👋
+<!-- Banner or short intro -->
+<h1 align="center">Hi there, I'm Bhuvana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <em>AI/ML & Full Stack Developer 🚀</em>
+</p>
 
-**Full Stack & ML Engineer · NLP · Generative AI 🚀**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvana-kanakam/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://bhuvanakanakam.vercel.app)
+<p align="center">Let's Connect!</p>
+<!-- Badges or short tagline -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhuvana-kanakam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn--%20.svg?style=flat&logo=linkedin&colorB=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/bhuvanakanakam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub--%20.svg?style=flat&logo=github&colorB=171515" alt="GitHub" />
+  </a>
+  <a href="mailto:bhuvana.kanakam@gmail.com">
+    <img src="https://img.shields.io/badge/Email--%20.svg?style=flat&logo=gmail&colorB=D14836" alt="Email" />
+  </a>
+  <a href="https://bhuvanakanakam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio--%20.svg?style=flat&logo=google-chrome&colorB=blue" alt="Website" />
+  </a>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-- 💼 **Previously** a Software Engineer at **insightsoftware**, where I led full-stack delivery, and AI-productivity initiatives.
+- 💼 **Currently** an incoming MS CS student at **Carnegie Mellon University**, focused on Machine Learning, NLP, and Distributed Systems.
+
+- 🌱 **Previously** a Software Engineer at **insightsoftware**, where I led full-stack delivery, ML integration, and AI-productivity initiatives.
+
+- 💬 I enjoy building full-stack applications using **React.js, Node.js, FastAPI, and ASP.NET Core**, and working on **machine learning, NLP, LLMs, and generative AI**.
 
 - 🏆 **Guinness World Record Holder** | National-level Throwball athlete | Hackathon builder.
 
-- 💬 I build end-to-end systems — from ML pipelines and NLP models to production-grade backend systems and deployed web apps. I care most about systems that work in the real world, where the stakes are high.
-
-- 🌍 **Portfolio:** [bhuvanakanakam.vercel.app](https://bhuvanakanakam.vercel.app)
+- 🌍 Portfolio: [bhuvanakanakam.vercel.app](https://bhuvanakanakam.vercel.app)
 
 ---
 
-## 💡 Skills & Technologies
+### 💡 Skills & Technologies
 
 **Programming Languages**
 
@@ -36,18 +54,18 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FCC63F?style=flat&logo=huggingface&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 **LLM & Applied AI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-blue?style=flat)
+![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-8A2BE2?style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=flat)
 
 **Web Development**
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -58,6 +76,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 **Cloud & Infrastructure**
 
@@ -67,6 +86,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=githubactions&logoColor=white)
 
----
-
-*Thanks for visiting my profile! I look forward to connecting and collaborating with you!*
+Thanks for visiting my profile! I look forward to connecting and collaborating with you!
