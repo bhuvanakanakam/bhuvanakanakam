@@ -25,8 +25,6 @@
 
 ### 👩‍💻 About Me
 
-- 💼 **Currently** an incoming MS CS student at **Carnegie Mellon University**, focused on Machine Learning, NLP, and Distributed Systems.
-
 - 🌱 **Previously** a Software Engineer at **insightsoftware**, where I led full-stack delivery, ML integration, and AI-productivity initiatives.
 
 - 💬 I enjoy building full-stack applications using **React.js, Node.js, FastAPI, and ASP.NET Core**, and working on **machine learning, NLP, LLMs, and generative AI**.
